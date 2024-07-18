@@ -1,0 +1,47 @@
+baseURL = "http://stigler.de/"
+defaultContentLanguage = "en"
+languageCode = "EN"
+
+title = "Patrick Stigler"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[params]
+  author = "Patrick Stigler"
+  description = "Innovating Solutions, Harnessing AI, Driving Growth."
+  avatarURL = "/images/avatar.jpg"
+  AvatarAltText = "avatar"
+  avatarSize = "size-m"
+  showContactForm = "false"
+  togglePreviousAndNextButtons = "false"
+  accentColor = "#D3D3D3"
+  footer = "Copyright Patrick Stigler"
+  socialIcons = [
+      {name = "linkedin", url = "https://www.linkedin.com/in/patrickstigler"},
+	  {name = "email", url = "mailto:business@stigler.de"}
+    ]
+
+[params.contact]
+  email = "business@stigler.de"
+
+[menu]
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "impressum"
+    name = "Impressum"
+    url = "/impressum/"
+    weight = 3
