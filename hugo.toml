@@ -35,13 +35,19 @@ enableRobotsTXT = true
     weight = 1
 
   [[menu.main]]
+    identifier = "Success Stories"
+    name = "Success Stories"
+    url = "/success_stories/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "impressum"
     name = "Impressum"
     url = "/impressum/"
-    weight = 3
+    weight = 4
