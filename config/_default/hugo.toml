@@ -1,5 +1,5 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://patrickstigler.github.io/"
+baseURL = "https://stigler.de"
 defaultContentLanguage = "de"
 languageCode = "DE"
 
