@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "Patrick Stigler"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/avatar.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  copyright = "Copyright Patrick Stigler { year }"
+
+[author]
+  name = "Patrick Stigler"
+  email = "business@stigler.de"
+  image = "img/avatar.jpg"
+  imageQuality = 96
+  headline = "Innovating Solutions, Harnessing AI, Driving Growth."
+  bio = "Develops innovative solutions, harnesses AI, and drives growth."
+  links = [
+    { linkedin = "https://linkedin.com/in/patrickstigler" }
+   ]
