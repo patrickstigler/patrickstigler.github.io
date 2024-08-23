@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projekte on Patrick Stigler</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projekte on Patrick Stigler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>business@stigler.de (Patrick Stigler)</managingEditor>
+    <webMaster>business@stigler.de (Patrick Stigler)</webMaster>
+    <copyright>Copyright Patrick Stigler 2024</copyright>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simracing Lenkrad</title>
+      <link>http://localhost:1313/projects/simracing-wheel/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      <author>business@stigler.de (Patrick Stigler)</author>
+      <guid>http://localhost:1313/projects/simracing-wheel/</guid>
+      <description>Der Bau eines Simracing-Wheels ist ein komplexes Zusammenspiel von Design, hochwertigen Materialien, Ergonomie und präziser Elektronik, das durch die erworbene Expertise in Fusion 360 zu einem maßgeschneiderten und herausragenden Fahrerlebnis führt.</description>
+      
+    </item>
+    
+    <item>
+      <title>Motorrad-Restaurierung (hobby)</title>
+      <link>http://localhost:1313/projects/motorcycle-rebuild/</link>
+      <pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+      <author>business@stigler.de (Patrick Stigler)</author>
+      <guid>http://localhost:1313/projects/motorcycle-rebuild/</guid>
+      <description>Motorrad-Restaurierung: Ein individuelles Fahrgefühl schaffen.</description>
+      
+    </item>
+    
+    <item>
+      <title>3D Drucker von null (Hobby)</title>
+      <link>http://localhost:1313/projects/3d-printer/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <author>business@stigler.de (Patrick Stigler)</author>
+      <guid>http://localhost:1313/projects/3d-printer/</guid>
+      <description>Ich habe einen 3D-Drucker von Grund auf gebaut, wobei ich mein tiefes Verständnis der 3D-Druckprozesse nutzte, um ein maßgeschneidertes Gerät mit präziser Software- und Mechanikintegration zu entwickeln.</description>
+      
+    </item>
+    
+    <item>
+      <title>Optimierung der Besucherströme</title>
+      <link>http://localhost:1313/projects/pax_counter/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <author>business@stigler.de (Patrick Stigler)</author>
+      <guid>http://localhost:1313/projects/pax_counter/</guid>
+      <description>Effizienzsteigerung durch Pax Counter: Optimierung der Besucherströme</description>
+      
+    </item>
+    
+    <item>
+      <title>Parking Management mit Machine Vision</title>
+      <link>http://localhost:1313/projects/parking_management/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      <author>business@stigler.de (Patrick Stigler)</author>
+      <guid>http://localhost:1313/projects/parking_management/</guid>
+      <description>Revolutionierung des Parkraummanagements mit Bildverarbeitungstechnologie</description>
+      
+    </item>
+    
+    <item>
+      <title>Smart Workspace Solution</title>
+      <link>http://localhost:1313/projects/desksensor/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <author>business@stigler.de (Patrick Stigler)</author>
+      <guid>http://localhost:1313/projects/desksensor/</guid>
+      <description>Desk-Sensor: Führend in der Entwicklung einer Smart Arbeitsplatzlösung</description>
+      
+    </item>
+    
+  </channel>
+</rss>
