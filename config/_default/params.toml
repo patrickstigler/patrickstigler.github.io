@@ -32,7 +32,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -42,14 +42,14 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = false
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/background.svg" # used in: hero, and card
-  showRecent = true
+  showRecent = false
   showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/portfolio"
   cardView = false
-  cardViewScreenWidth = true
+  cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
 [article]

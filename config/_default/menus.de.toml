@@ -11,19 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Portfolio"
-  pageRef = "portfolio"
-  weight = 10
-
-[[main]]
   name = "Success Stories"
   pageRef = "success_stories"
-  weight = 20
+  weight = 10
   
 [[main]]
   name = "Projekte"
   pageRef = "projects"
-  weight = 30
+  weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

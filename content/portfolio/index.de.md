@@ -1,59 +1,59 @@
+
 ---
 title: "Portfolio"
 date: 2024-07-17
 draft: false
 ---
-### About me
-My name is Patrick Stigler, a seasoned IT professional with expertise in technology integration, project management, and driving innovation. I specialize in utilizing advanced technologies to enhance business operations and achieve organizational success. My background includes implementing innovative solutions that streamline processes and contribute to overall business growth.
+
+Ich bin ein versierter IT-Experte mit umfassender Erfahrung in der Technologieintegration, dem Projektmanagement und der Förderung von Innovationen. Mein Schwerpunkt liegt auf der gezielten Anwendung fortschrittlicher Technologien, um Geschäftsprozesse zu optimieren und den Erfolg von Organisationen zu steigern. Mit meinem Fachwissen habe ich zahlreiche innovative Lösungen implementiert, die Abläufe effizienter gestalten und maßgeblich zum Unternehmenswachstum beitragen.
 
 ---
 
-### Professional Experience
+### Berufserfahrung
 {{< timeline >}}
 
-{{< timelineItem icon="" header="IT Solutions Architect" badge="Jan 2020 - Present" subheader="Robert Bosch GmbH" >}}
+{{< timelineItem icon="" header="IT Solutions Architect" badge="2020 - Present" subheader="Robert Bosch GmbH" >}}
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+    <li>Process Excellence</li>
+    <li>Data Virtualization</li>
+    <li>Hackathon Organization</li>
+    <li>Startup Projects</li>
+    <li>VR/AR</li>
+    <li>LoRaWAN Initiative</li>
+    <li>Workflow Optimization</li>
 </ul>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="Technology Integration Specialist" badge="Dec 2017 - Dec 2020" subheader="Robert Bosch GmbH" >}}
+{{< timelineItem icon="" header="Technology Integration Specialist" badge="2017 - 2020" subheader="Robert Bosch GmbH" >}}
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+    <li>Innovation Management</li>
+    <ul>
+      <li>Low Code</li>
+      <li>Effizienz Initiative</li>
+      <li>Hackathon Organization</li>
+      <li>Makerspace gegründet</li>
+      <li>International Academic Liaison</li>
+      <li>IoT Device entwickelt</li>
+      <li>Machine Vision</li>
+      <li>Chatbot</li>
+      <li>AI Display</li>
+    </ul>
+
+    <li>IT Infrastruktur und Operations</li>
+    <ul>
+      <li>Server-/Berechtigungsverwaltung</li>
+      <li>Risikoanalyse</li>
+    </ul>
 </ul>
 {{< /timelineItem >}}
 
-{{< timelineItem icon="" header="Software Developer" badge="Jul 2012 - Dec 2015" subheader="Robert Bosch GmbH" >}}
+{{< timelineItem icon="code" header="Software Developer" badge="2012 - 2015" subheader="Robert Bosch GmbH" >}}
 <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+    <li>Entwicklung einer Support-Plattform für Endbenutzer</li>
+    <li>Optimierung des Remote-Support-Prozesses</li>
+    <li>Digital Twin</li>
+    <li>IT Support</li>
 </ul>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
-
-### Core Competencies
-
-- **Innovation Management:** Expertise in fostering innovation, mentoring teams, and utilizing strong organizational skills.
-- **Academic Liaison:** Demonstrated leadership, resilience, and commitment to continuous learning.
-- **Process Optimization:** Proficient in analytical thinking and process improvement through advanced organizational skills.
-- **Artificial Intelligence:** Specialized knowledge in machine vision, generative AI, and prompt engineering.
-- **Rapid Prototyping:** Skilled in 3D printing, milling, turning, CAD, and PCB design.
-- **Internet of Things:** Experienced with LoRa, ESP32, MQTT, and Raspberry Pi technology.
-
-### Languages
-- **German**: Native speaker
-- **English**: C1
-
-#### Certifications
-- **Bosch Specialist Development Program**: Robert Bosch GmbH, Stuttgart
-- **Microsoft Certified Professional**: Microsoft
-- **Microsoft Technology Associate**: Microsoft
----
-
-*This page provides an overview of my skills, experiences, and interests. For further information or to get in touch, please use the contact details provided above.*
