@@ -1,0 +1,35 @@
+:root { 
+    --color-neutral: 255, 255, 255;  /* Weiß */
+    --color-neutral-50:     255,255,255;  /* Reinweiß */
+    --color-neutral-100:    255,255,255;  /* Reinweiß */
+    --color-neutral-200:    214,219,222;  /* Helles Grau */
+    --color-neutral-300:    172,183,188;  /* Mittelgrau */
+    --color-neutral-400:    129,146,154;  /* Blaugrau */
+    --color-neutral-500:    92,107,115;   /* Dunkles Blaugrau */
+    --color-neutral-600:    74,86,92;     /* Dunkleres Blaugrau */
+    --color-neutral-700:    56,65,70;     /* Sehr Dunkles Blaugrau */
+    --color-neutral-800:    38,44,47;     /* Anthrazit */
+    --color-neutral-900:    19,23,24;     /* Fast Schwarz (Anthrazit-Schwarz) */
+
+    --color-primary-50:     250,240,230;  /* Sehr helles Sandbeige */
+    --color-primary-100:    245,220,200;  /* Helles Sandbeige */
+    --color-primary-200:    235,200,170;  /* Warmes Beige */
+    --color-primary-300:    225,180,140;  /* Sattes Beige */
+    --color-primary-400:    210,160,110;  /* Intensives Beige */
+    --color-primary-500:    190,140,80;   /* Kräftiges Sand */
+    --color-primary-600:    160,110,50;   /* Dunkles Sand */
+    --color-primary-700:    130,80,30;    /* Tiefes Sand */
+    --color-primary-800:    100,60,20;    /* Sehr dunkles Sand */
+    --color-primary-900:    70,40,10;     /* Dunkelstes Sand */
+
+    --color-secondary-50:     240,255,245;  /* Sehr helles Salbeigrün */
+    --color-secondary-100:    220,245,225;  /* Helles Salbeigrün */
+    --color-secondary-200:    200,235,205;  /* Leichtes Salbeigrün */
+    --color-secondary-300:    180,225,185;  /* Sattes Salbeigrün */
+    --color-secondary-400:    160,215,165;  /* Intensives Salbeigrün */
+    --color-secondary-500:    140,205,145;  /* Kräftiges Salbeigrün */
+    --color-secondary-600:    120,185,125;  /* Dunkles Salbeigrün */
+    --color-secondary-700:    100,165,105;  /* Sehr dunkles Salbeigrün */
+    --color-secondary-800:    80,145,85;    /* Tiefes Salbeigrün */
+    --color-secondary-900:    60,125,65;    /* Dunkelstes Salbeigrün */
+}

@@ -5,8 +5,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "bronze"
-defaultAppearance = "dark" # valid options: light or dark
+colorScheme = "stigler"
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = false
