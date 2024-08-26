@@ -19,7 +19,7 @@
         type="translate"
         dur="10s"
         calcMode="spline"
-        values="270 230; -334 180; 270 230"
+        values="270 130; -334 80; 270 130"
         keyTimes="0; .5; 1"
         keySplines="0.42, 0, 0.58, 1.0;0.42, 0, 0.58, 1.0"
         repeatCount="indefinite" />
@@ -31,7 +31,7 @@
         type="translate"
         dur="8s"
         calcMode="spline"
-        values="-270 230;243 220;-270 230"
+        values="-270 130;243 120;-270 130"
         keyTimes="0; .6; 1"
         keySplines="0.42, 0, 0.58, 1.0;0.42, 0, 0.58, 1.0"
         repeatCount="indefinite" />
@@ -43,7 +43,7 @@
         type="translate"
         dur="6s"
         calcMode="spline"
-        values="0 230;-140 200;0 230"
+        values="0 130;-140 100;0 130"
         keyTimes="0; .4; 1"
         keySplines="0.42, 0, 0.58, 1.0;0.42, 0, 0.58, 1.0"
         repeatCount="indefinite" />
