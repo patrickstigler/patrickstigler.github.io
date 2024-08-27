@@ -9,7 +9,7 @@ I am a seasoned IT professional with expertise in technology integration, projec
 
 ---
 
-### Professional Experience
+## Professional Experience
 {{< timeline >}}
 
 {{< timelineItem icon="" header="IT Solutions Architect" badge="2020 - Present" subheader="Robert Bosch GmbH" >}}
@@ -60,12 +60,12 @@ I am a seasoned IT professional with expertise in technology integration, projec
 
 
 
-### Skills and Competencies
+## Skills and Competencies
 Programming Languages: Python, C#, C++
 Machine Learning: TensorFlow, PyTorch, OpenCV, Scikit-learn
 Data Processing: InfluxDB, SQL, Hadoop
 
-## Methods and Tools
+### Methods and Tools
 **AI Models**: 
 <ul>
     <li>Supervised und Unsupervised Learning</li>
@@ -74,7 +74,7 @@ Data Processing: InfluxDB, SQL, Hadoop
 </ul>
 **Innovation Techniques**: 
 <ul>
-Design Thinking
+    <li>Design Thinking</li>
     <li>Hackathons</li>
     <li>Fuckup Nights</li>
     <li>Lean Startup</li>
@@ -87,7 +87,7 @@ Design Thinking
     <li>MVP (Minimum Viable Product)</li>
 </ul>
 
-## Certifications
+### Certifications
 <ul>
 <li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
 <li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
