@@ -67,9 +67,26 @@ Datenverarbeitung: InfluxDB, SQL, Hadoop
 ## Technische Fähigkeiten
 
 ## Methoden und Tools
-AI-Modelle: Supervised und Unsupervised Learning, Reinforcement Learning, Natural Language Processing (NLP)
-Innovationstechniken: Design Thinking, Hackathons, Ideation Workshops, Lean Startup, Agile, Fuckup Nights, Workout Loud, Scenario Planning, Innovation Labs, World Café, MVP (Minimum Viable Product)
-
+**AI-Modelle**: 
+<ul>
+    <li>Supervised und Unsupervised Learning</li>
+    <li>Reinforcement Learning</li>
+    <li>Natural Language Processing (NLP)</li>
+</ul>
+**Innovationstechniken**: 
+<ul>
+Design Thinking
+    <li>Hackathons</li>
+    <li>Fuckup Nights</li>
+    <li>Lean Startup</li>
+    <li>Agile</li>
+    <li>Workout Loud</li>
+    <li>Scenario Planning</li>
+    <li>Innovation Labs</li>
+    <li>World Café</li>
+    <li>Ideation Workshops</li>
+    <li>MVP (Minimum Viable Product)</li>
+</ul>
 ## Zertifizierungen
 <ul>
 <li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
