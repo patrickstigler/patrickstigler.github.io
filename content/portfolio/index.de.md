@@ -66,7 +66,7 @@ Datenverarbeitung: InfluxDB, SQL, Hadoop
 
 ## Technische Fähigkeiten
 
-## Methoden und Tools
+### Methoden und Tools
 **AI-Modelle**: 
 <ul>
     <li>Supervised und Unsupervised Learning</li>
@@ -75,7 +75,7 @@ Datenverarbeitung: InfluxDB, SQL, Hadoop
 </ul>
 **Innovationstechniken**: 
 <ul>
-Design Thinking
+    <li>Design Thinking</li>
     <li>Hackathons</li>
     <li>Fuckup Nights</li>
     <li>Lean Startup</li>
@@ -87,14 +87,14 @@ Design Thinking
     <li>Ideation Workshops</li>
     <li>MVP (Minimum Viable Product)</li>
 </ul>
-## Zertifizierungen
+### Zertifizierungen
 <ul>
-<li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Networking Fundamentals</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Security Fundamentals</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Software Development</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Windows Operating System</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Windows Server Administration Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Networking Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Security Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Software Development</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Windows Operating System</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Windows Server Administration Fundamentals</icon></li>
 </ul>
 
