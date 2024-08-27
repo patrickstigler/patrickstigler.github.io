@@ -65,11 +65,27 @@ Programming Languages: Python, C#, C++
 Machine Learning: TensorFlow, PyTorch, OpenCV, Scikit-learn
 Data Processing: InfluxDB, SQL, Hadoop
 
-## Technical Skills
-
 ## Methods and Tools
-AI Models: Supervised and Unsupervised Learning, Reinforcement Learning, Natural Language Processing (NLP)
-Innovation Techniques: Design Thinking, Hackathons, Ideation Workshops, Lean Startup, Agile, Fuckup Nights, Workout Loud, Scenario Planning, Innovation Labs, World Café, MVP (Minimum Viable Product)
+**AI Models**: 
+<ul>
+    <li>Supervised und Unsupervised Learning</li>
+    <li>Reinforcement Learning</li>
+    <li>Natural Language Processing (NLP)</li>
+</ul>
+**Innovation Techniques**: 
+<ul>
+Design Thinking
+    <li>Hackathons</li>
+    <li>Fuckup Nights</li>
+    <li>Lean Startup</li>
+    <li>Agile</li>
+    <li>Workout Loud</li>
+    <li>Scenario Planning</li>
+    <li>Innovation Labs</li>
+    <li>World Café</li>
+    <li>Ideation Workshops</li>
+    <li>MVP (Minimum Viable Product)</li>
+</ul>
 
 ## Certifications
 <ul>
