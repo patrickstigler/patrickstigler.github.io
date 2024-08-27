@@ -71,10 +71,12 @@ AI-Modelle: Supervised und Unsupervised Learning, Reinforcement Learning, Natura
 Innovationstechniken: Design Thinking, Hackathons, Ideation Workshops, Lean Startup, Agile, Fuckup Nights, Workout Loud, Scenario Planning, Innovation Labs, World Café, MVP (Minimum Viable Product)
 
 ## Zertifizierungen
-{{< icon "microsoft" >}} **Microsoft Certified Professional**
-{{< icon "microsoft" >}} MTA: Database Administration Fundamentals
-{{< icon "microsoft" >}} MTA: Networking Fundamentals
-{{< icon "microsoft" >}} MTA: Security Fundamentals
-{{< icon "microsoft" >}} MTA: Software Development 
-{{< icon "microsoft" >}} MTA: Windows Operating System
-{{< icon "microsoft" >}} MTA: Windows Server Administration Fundamentals
+<ul>
+<li></li>{{< icon "microsoft" >}} **Microsoft Certified Professional**</icon></li>
+{{< icon "microsoft" >}} MTA: Database Administration Fundamentals</icon></li>
+{{< icon "microsoft" >}} MTA: Networking Fundamentals</icon></li>
+{{< icon "microsoft" >}} MTA: Security Fundamentals</icon></li>
+{{< icon "microsoft" >}} MTA: Software Development</icon></li>
+{{< icon "microsoft" >}} MTA: Windows Operating System</icon></li>
+{{< icon "microsoft" >}} MTA: Windows Server Administration Fundamentals</icon></li>
+</ul>
