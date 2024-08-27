@@ -57,3 +57,24 @@ Ich bin ein versierter IT-Experte mit umfassender Erfahrung in der Technologiein
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+
+### Fähigkeiten und Kompetenzen
+Programmiersprachen: Python, C#, C++
+Machine Learning: TensorFlow, PyTorch, OpenCV, Scikit-learn
+Datenverarbeitung: InfluxDB, SQL, Hadoop
+
+## Technische Fähigkeiten
+
+## Methoden und Tools
+AI-Modelle: Supervised und Unsupervised Learning, Reinforcement Learning, Natural Language Processing (NLP)
+Innovationstechniken: Design Thinking, Hackathons, Ideation Workshops, Lean Startup, Agile, Fuckup Nights, Workout Loud, Scenario Planning, Innovation Labs, World Café, MVP (Minimum Viable Product)
+
+## Zertifizierungen
+{{< icon "microsoft" >}} **Microsoft Certified Professional**
+{{< icon "microsoft" >}} MTA: Database Administration Fundamentals
+{{< icon "microsoft" >}} MTA: Networking Fundamentals
+{{< icon "microsoft" >}} MTA: Security Fundamentals
+{{< icon "microsoft" >}} MTA: Software Development 
+{{< icon "microsoft" >}} MTA: Windows Operating System
+{{< icon "microsoft" >}} MTA: Windows Server Administration Fundamentals
