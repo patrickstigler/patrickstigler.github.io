@@ -66,13 +66,15 @@ Machine Learning: TensorFlow, PyTorch, OpenCV, Scikit-learn
 Data Processing: InfluxDB, SQL, Hadoop
 
 ### Methods and Tools
-**AI Models**: 
+#### AI Models:
 <ul>
     <li>Supervised und Unsupervised Learning</li>
     <li>Reinforcement Learning</li>
     <li>Natural Language Processing (NLP)</li>
 </ul>
-**Innovation Techniques**: 
+
+#### Innovation Techniques:
+
 <ul>
     <li>Design Thinking</li>
     <li>Hackathons</li>
@@ -89,11 +91,11 @@ Data Processing: InfluxDB, SQL, Hadoop
 
 ### Certifications
 <ul>
-<li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Networking Fundamentals</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Security Fundamentals</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Software Development</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Windows Operating System</icon></li>
-<li>{{< icon "microsoft" >}}  MTA: Windows Server Administration Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Networking Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Security Fundamentals</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Software Development</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Windows Operating System</icon></li>
+    <li>{{< icon "microsoft" >}}  MTA: Windows Server Administration Fundamentals</icon></li>
 </ul>
