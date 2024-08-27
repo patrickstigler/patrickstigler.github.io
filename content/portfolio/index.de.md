@@ -67,13 +67,15 @@ Datenverarbeitung: InfluxDB, SQL, Hadoop
 ## Technische Fähigkeiten
 
 ### Methoden und Tools
-**AI-Modelle**: 
+#### AI-Modelle: 
 <ul>
     <li>Supervised und Unsupervised Learning</li>
     <li>Reinforcement Learning</li>
     <li>Natural Language Processing (NLP)</li>
 </ul>
-**Innovationstechniken**: 
+
+#### Innovationstechniken:
+
 <ul>
     <li>Design Thinking</li>
     <li>Hackathons</li>
@@ -87,7 +89,9 @@ Datenverarbeitung: InfluxDB, SQL, Hadoop
     <li>Ideation Workshops</li>
     <li>MVP (Minimum Viable Product)</li>
 </ul>
+
 ### Zertifizierungen
+
 <ul>
     <li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
     <li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
