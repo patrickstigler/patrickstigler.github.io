@@ -57,3 +57,27 @@ I am a seasoned IT professional with expertise in technology integration, projec
 {{< /timelineItem >}}
 
 {{< /timeline >}}
+
+
+
+### Skills and Competencies
+Programming Languages: Python, C#, C++
+Machine Learning: TensorFlow, PyTorch, OpenCV, Scikit-learn
+Data Processing: InfluxDB, SQL, Hadoop
+
+## Technical Skills
+
+## Methods and Tools
+AI Models: Supervised and Unsupervised Learning, Reinforcement Learning, Natural Language Processing (NLP)
+Innovation Techniques: Design Thinking, Hackathons, Ideation Workshops, Lean Startup, Agile, Fuckup Nights, Workout Loud, Scenario Planning, Innovation Labs, World Café, MVP (Minimum Viable Product)
+
+## Certifications
+<ul>
+<li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
+<li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
+<li>{{< icon "microsoft" >}}  MTA: Networking Fundamentals</icon></li>
+<li>{{< icon "microsoft" >}}  MTA: Security Fundamentals</icon></li>
+<li>{{< icon "microsoft" >}}  MTA: Software Development</icon></li>
+<li>{{< icon "microsoft" >}}  MTA: Windows Operating System</icon></li>
+<li>{{< icon "microsoft" >}}  MTA: Windows Server Administration Fundamentals</icon></li>
+</ul>
