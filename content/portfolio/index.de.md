@@ -72,7 +72,7 @@ Innovationstechniken: Design Thinking, Hackathons, Ideation Workshops, Lean Star
 
 ## Zertifizierungen
 <ul>
-<li>{{< icon "microsoft" >}}  **Microsoft Certified Professional**</icon></li>
+<li>{{< icon "microsoft" >}}  Microsoft Certified Professional</icon></li>
 <li>{{< icon "microsoft" >}}  MTA: Database Administration Fundamentals</icon></li>
 <li>{{< icon "microsoft" >}}  MTA: Networking Fundamentals</icon></li>
 <li>{{< icon "microsoft" >}}  MTA: Security Fundamentals</icon></li>
