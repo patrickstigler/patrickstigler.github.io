@@ -1,6 +1,6 @@
 ---
 title: "Developing an Interface for an Undocumented Manufacturing Machine through Network Analysis"
-date: 2021-07-17
+date: 2017-07-17
 draft: false
 summary: "By conducting network analysis and detailed traffic inspection, I successfully decoded the communication protocol of an undocumented manufacturing machine and integrated it into the digital infrastructure."
 ---
