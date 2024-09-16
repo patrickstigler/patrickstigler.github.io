@@ -1,10 +1,10 @@
 ---
-title: "Erfolgsstory: Optimierte IoT-Überwachung durch LoRaWAN – Facility Management Innovation"
+title: "Optimierte IoT-Überwachung durch LoRaWAN – Facility Management Innovation"
 date: 2021-07-17
 draft: false
 summary: "Dank der Implementierung des LoRaWAN-Standards für die Überwachung kritischer Umgebungsvariablen an verschiedenen Standorten konnte die Effizienz erheblich gesteigert, der Wartungsaufwand minimiert und ein zukunftssicheres System für IoT-Anwendungen geschaffen werden."
 ---
-### Erfolgsstory: LoRaWAN-Technologie revolutioniert die Sensorüberwachung im Facility Management
+### LoRaWAN-Technologie revolutioniert die Sensorüberwachung im Facility Management
 
 Als Projektleiter eines strategischen Kooperationsprojekts mit dem **Facility Management** war ich verantwortlich für die Einführung des **LoRaWAN-Standards** an mehreren Standorten in Deutschland. Ziel war es, eine smarte, automatisierte Lösung für die Überwachung von **CO₂-Gasflaschen** zu implementieren. Darüber hinaus wurde das System modular gestaltet, um zukünftig auch andere **Umgebungsparameter** zu erfassen und der Wartung vorauszudenken – angefangen bei Temperatur bis hin zu Luftfeuchtigkeit.
 
