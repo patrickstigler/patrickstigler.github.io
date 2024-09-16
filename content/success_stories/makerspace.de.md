@@ -1,5 +1,5 @@
 ---
-title: "Erfolgsstory: Planung und Expansion eines Innovationslabors für Prototyping, VR und AR"
+title: "Planung und Expansion eines Innovationslabors für Prototyping, VR und AR"
 date: 2020-07-17
 draft: false
 summary: "Durch die Gründung und Expansion eines Makerspaces, der umfassende Prototyping-, VR- und AR-Möglichkeiten bietet, hat unsere Organisation nicht nur bedeutende Innovationen gefördert, sondern sich auch als internationaler Vorreiter in der technologischen Entwicklung etabliert."
